@@ -6,6 +6,7 @@ import random
 import matplotlib.pyplot as plt 
 from mpl_toolkits.mplot3d import Axes3D
 from matplotlib import cm
+from Blackbox_Problems_fixed import problem_1, problem_2, problem_3
 #--- COST FUNCTION ------------------------------------------------------------+
 
 # Fitness function
