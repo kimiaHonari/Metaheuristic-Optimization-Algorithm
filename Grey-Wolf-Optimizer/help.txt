@@ -1,5 +1,5 @@
 
-from Blackbox_Problems import problem_1, problem_2, problem_3
+from Blackbox_Problems_fixed import problem_1, problem_2, problem_3
 
 #Blackbox_problems can include any function based on your problem
 #in this implementation we consider that there are thre problem exist
